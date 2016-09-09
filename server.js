@@ -454,7 +454,7 @@ function sendAudioMessage(recipientId) {
       attachment: {
         type: "audio",
         payload: {
-          url: SERVER_URL + "/assets/sample.mp3"
+          url: SERVER_URL + "/assets/Back Door.mp3"
         }
       }
     }
@@ -476,7 +476,7 @@ function sendVideoMessage(recipientId) {
       attachment: {
         type: "video",
         payload: {
-          url: SERVER_URL + "/assets/allofus480.mov"
+          url: SERVER_URL + "/assets/valentinesdaybunkers.mp4"
         }
       }
     }
