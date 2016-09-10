@@ -476,7 +476,7 @@ function sendVideoMessage(recipientId) {
       attachment: {
         type: "video",
         payload: {
-          url: SERVER_URL + "/public/assets/valentinesdaybunkers.mp4"
+          url: SERVER_URL + "/assets/valentinesdaybunkers.mp4"
         }
       }
     }
